@@ -1,0 +1,33 @@
+#inLine{
+background-color: #39B54A;
+border-radius: 50%;
+width: 10px;
+height: 10px;
+box-shadow: 1px 1px #1B713E;
+flex-wrap: wrap;
+float: left;
+margin-top: 10px;
+margin-right: 10px;
+}
+
+#offLine{
+background-color: red;
+border-radius: 50%;
+width: 10px;
+height: 10px;
+box-shadow: 1px 1px #CD0000;
+flex-wrap: wrap;
+float: left;
+margin-top: 10px;
+margin-right: 10px;
+}
+
+#tablaDetalleFunciones{
+  overflow: auto;
+  height: 245px;
+}
+
+#funciones{
+  overflow: auto;
+  height: 300px;
+}

@@ -1,0 +1,17 @@
+#formulario
+{
+/* border: solid 2px #4F504F; */
+border-radius: 10px;
+background-color: #FAFAFA;
+}
+
+#formulario:hover
+{
+background-color:#F2F2F2;
+}
+
+.estudiante
+{
+  box-shadow: 4px 4px #A4A4A4;
+
+}

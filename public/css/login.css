@@ -1,0 +1,18 @@
+#login{
+
+border:1px solid green;
+padding: auto; /*el auto coje todos los lados*/
+padding: 2% 2% 2% 2%;
+border-radius: 2%;
+box-shadow: 4px 4px green;
+  }
+
+#login:hover{
+
+  box-shadow: 4px 4px #39B54A;
+
+}
+
+#tamanio{
+  width:100%;
+}
